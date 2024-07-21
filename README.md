@@ -16,11 +16,9 @@
 
 - ☁️ I've keen interest in web protocols. So,I'm learning **Bittorrent Protocols**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
 - 📫 Feel free to reach me out **wafflemage765@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Wafflemage](https://discordapp.com/users/375774324763787264) my username!
 <!--Intro end-->
 
 
