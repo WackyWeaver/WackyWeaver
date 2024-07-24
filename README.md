@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Web Development and Cybersecurity**
 
-- ☁️ I'm keen interest in web protocols. So,I'm learning **BitTorrent **
+- ☁️ I'be been interested in web protocols. So,I'm learning **BitTorrent **
 
 - 📫 Feel free to reach me out **wafflemage765@gmail.com**
 
