@@ -10,11 +10,11 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **HTML, JS, Bootstrap**
+- 🔭 I’m currently working on an **Indie Game**
 
 - 🌱 I’m currently learning **Web Development and Cybersecurity**
 
-- ☁️ I'be been interested in web protocols. So,I'm learning **BitTorrent **
+- ☁️ I'be been interested in game development.
 
 - 📫 Feel free to reach me out **wafflemage765@gmail.com**
 
