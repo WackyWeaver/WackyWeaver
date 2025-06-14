@@ -10,11 +10,11 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on an **Indie Game**
+- 🔭 I’m currently just tinkering on my personal site
 
 - 🌱 I’m currently learning **Web Development and Cybersecurity**
 
-- ☁️ I'be been interested in game development.
+- ☁️ I'be been interested in computer security.
 
 - 📫 Feel free to reach me out **wafflemage765@gmail.com**
 
