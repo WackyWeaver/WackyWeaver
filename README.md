@@ -12,13 +12,11 @@
 <!--Intro start-->
 - 🔭 I’m currently just tinkering on my personal site
 
-- 🌱 I’m currently learning **Web Development and Cybersecurity**
+- 🌱 I’m currently learning ****
 
-- ☁️ I'be been interested in computer security.
+- ☁️ I'be been interested in control system analysis and analog audio electronics
 
 - 📫 Feel free to reach me out **wafflemage765@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Wafflemage](https://discordapp.com/users/375774324763787264) my username!
 <!--Intro end-->
 
 
